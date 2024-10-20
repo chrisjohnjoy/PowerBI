@@ -1,4 +1,4 @@
-# Global Superstore Sales and Returns Dashboard
+# Global Superstore Sales and Returns Report
 Project Description
 This Power BI project provides an interactive sales and returns report for the Global Superstore, which operates across multiple countries and regions. The dashboard presents key business insights, such as sales performance, profitability, shipping mode analysis, and product returns, segmented by markets, regions, and product categories. It is designed for stakeholders to track and optimize operations through data-driven decisions.
 # Features
